@@ -1,7 +1,12 @@
 # Byte-compiled / optimized / DLL files
+data/
+jup_sched*
+mirnas*.txt
+archive/
 __pycache__/
 *.py[cod]
 *$py.class
+*.zip
 
 # C extensions
 *.so
