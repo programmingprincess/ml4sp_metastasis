@@ -1,0 +1,39 @@
+Logistic Regression:
+
+feature number: 50
+accuracy: 0.8
+kappa: 0.557
+
+feature number: 40
+accuracy: 0.8157
+kappa: 0.5861
+
+feature number: 30
+accuracy: 0.788
+kappa: 0.532
+
+feature number: 35
+accuracy: 0.811
+kappa: 0.569
+
+feature number: 45
+accuracy: 0.8179
+kappa: 0.5925
+
+Random Forest:
+
+feature number: 50
+accuracy: 0.8696
+kappa: 0.6075
+
+feature number: 40
+accuracy: 0.8741
+kappa: 0.6287
+
+feature number: 30
+accuracy: 0.8786
+kappa: 0.6376
+
+feature number: 25
+accuracy: 0.8606
+kappa: 0.583
