@@ -1,0 +1,29 @@
+Logistics Regression:
+
+feature number: 45
+Accuracy:0.7368
+Kappa: 0.6008
+
+feature number: 50
+Accuracy:0.7368
+Kappa: 0.5905
+
+feature number: 40
+Accuracy:0.7368
+Kappa: 0.6008
+
+feature number: 35
+Accuracy:0.7368
+Kappa: 0.6008
+
+feature number: 30
+Accuracy:0.8947
+Kappa: 0.8146
+
+feature number: 25
+Accuracy:0.7368
+Kappa: 0.5777
+
+feature number: 20
+Accuracy:0.7368
+Kappa: 0.5833
